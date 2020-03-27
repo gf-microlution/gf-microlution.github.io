@@ -1,0 +1,6 @@
+# Ignore working data from doc generation
+*
+!.gitignore
+!Comments.txt
+!Languages.txt
+!Project.txt
