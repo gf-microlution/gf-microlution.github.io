@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("off",["Class"],[["OffsetManager",,[[,,,,0,"File:lib_offsets.pmc:OffsetManager","PMAClangClass:OffsetManager"]]]]);

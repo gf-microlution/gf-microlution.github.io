@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("PMAClangClass:FrontDoor","FrontDoor");NDSummary.OnSummaryLoaded("PMAClangClass:FrontDoor",[["PMAClang","PMAClang"]],[["Classes","Class"],["Groups","Group"],["Functions","subsub"]],[[250,0,0,"FrontDoor"],[251,0,1,"Functions","Functions"],[252,0,2,"Unlock","Unlock"],[253,0,2,"Lock","Lock"],[254,0,2,"IsDoorLockedAndClosed","IsDoorLockedAndClosed"]]);

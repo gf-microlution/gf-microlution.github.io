@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("fro",["Class"],[["FrontDoor",,[[,,,,0,"File:component_doors.pmc:FrontDoor","PMAClangClass:FrontDoor"]]]]);

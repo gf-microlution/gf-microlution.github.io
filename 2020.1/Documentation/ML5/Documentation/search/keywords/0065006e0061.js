@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ena",["subsub"],[["EnableLaser",,[["Laser",,,,0,"File:lib_laser_spi.pmc:Laser.EnableLaser","PMAClangClass:Laser:EnableLaser"]]]]);

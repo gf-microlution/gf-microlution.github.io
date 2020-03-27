@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("las",["Class"],[["Laser",,[[,,,,0,"File:lib_Laser_Monaco.pmc:Laser","PMAClangClass:Laser"]]]]);

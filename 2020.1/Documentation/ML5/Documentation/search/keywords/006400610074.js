@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("dat",["Class"],[["DataManager",,[[,,,,0,"File:component_solver.pmc:DataManager","PMAClangClass:DataManager"]]],["DataPersistence",,[[,,,,0,"File:component_datapersistence.pmc:DataPersistence","PMAClangClass:DataPersistence"]]]]);

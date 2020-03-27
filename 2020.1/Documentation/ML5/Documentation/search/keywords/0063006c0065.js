@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("cle",["subsub"],[["ClearAllOffsets",,[["OffsetManager",,,,0,"File:lib_offsets.pmc:OffsetManager.ClearAllOffsets","PMAClangClass:OffsetManager:ClearAllOffsets"]]],["ClearFaults",,[["Laser",,,,0,"File:lib_Laser_Monaco.pmc:Laser.ClearFaults","PMAClangClass:Laser:ClearFaults"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ope",["subsub"],[["OpenAllShutters",,[["Laser",,,,0,"File:lib_Laser_Monaco.pmc:Laser.OpenAllShutters","PMAClangClass:Laser:OpenAllShutters"]]],["OpenSoftwareShutter",,[[,,,,0,"File:lib_laser_carbide.pmc:OpenSoftwareShutter"],["Laser",,,,0,"File:lib_Laser_Monaco.pmc:Laser.OpenSoftwareShutter","PMAClangClass:Laser:OpenSoftwareShutter"]]]]);

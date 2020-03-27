@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isd",["subsub"],[["IsDoorLockedAndClosed",,[["FrontDoor",,,,0,"File:component_doors.pmc:FrontDoor.IsDoorLockedAndClosed","PMAClangClass:FrontDoor:IsDoorLockedAndClosed"]]]]);

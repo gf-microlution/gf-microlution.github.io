@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("PMAClangClass:Math","Math");NDSummary.OnSummaryLoaded("PMAClangClass:Math",[["PMAClang","PMAClang"]],[["Classes","Class"],["Groups","Group"],["Functions","subsub"]],[[51,0,0,"Math"],[52,0,1,"Functions","Functions"],[53,0,2,"CalculateMidpoint","CalculateMidpoint"],[54,0,2,"TransformPoint","TransformPoint"]]);

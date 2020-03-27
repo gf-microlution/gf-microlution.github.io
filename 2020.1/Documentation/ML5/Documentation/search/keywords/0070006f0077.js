@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("pow",["Class"],[["PowerMeter",,[[,,,,0,"File:component_powermeter.pmc:PowerMeter","PMAClangClass:PowerMeter"]]]]);

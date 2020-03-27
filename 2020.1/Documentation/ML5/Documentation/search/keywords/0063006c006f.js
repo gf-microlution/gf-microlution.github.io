@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("clo",["subsub"],[["CloseSoftwareShutter",,[[,,,,0,"File:lib_laser_carbide.pmc:CloseSoftwareShutter"],["Laser",,,,0,"File:lib_Laser_Monaco.pmc:Laser.CloseSoftwareShutter","PMAClangClass:Laser:CloseSoftwareShutter"]]]]);

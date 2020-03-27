@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("fum",["Class"],[["Fumex",,[[,,,,0,"File:component_fumex.pmc:Fumex","PMAClangClass:Fumex"]]]]);

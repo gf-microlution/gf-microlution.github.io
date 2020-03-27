@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("del",["subsub"],[["DeleteTable",,[["DataManager",,,,0,"File:component_solver.pmc:DataManager.DeleteTable","PMAClangClass:DataManager:DeleteTable"]]]]);

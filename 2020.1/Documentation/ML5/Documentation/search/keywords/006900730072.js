@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isr",["subsub"],[["isReady",,[["Laser",,,,0,"File:lib_Laser_Monaco.pmc:Laser.isReady","PMAClangClass:Laser:isReady"]]]]);

@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:math.pmc","math.pmc");NDSummary.OnSummaryLoaded("File:math.pmc",[["PMAClang","PMAClang"]],[["Classes","Class"],["Groups","Group"],["Functions","subsub"]],[[51,0,0,"Math","Math"],[52,0,1,"Functions","Math.Functions"],[53,0,2,"CalculateMidpoint","Math.CalculateMidpoint"],[54,0,2,"TransformPoint","Math.TransformPoint"]]);

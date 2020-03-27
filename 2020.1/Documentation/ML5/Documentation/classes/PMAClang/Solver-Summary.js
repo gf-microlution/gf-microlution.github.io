@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("PMAClangClass:Solver","Solver");NDSummary.OnSummaryLoaded("PMAClangClass:Solver",[["PMAClang","PMAClang"]],[["Classes","Class"],["Groups","Group"],["Functions","subsub"]],[[177,0,0,"Solver"],[178,0,1,"Functions","Functions"],[179,0,2,"SelectTable","SelectTable"],[180,0,2,"SelectEquation","SelectEquation"],[181,0,2,"Solve","Solve"]]);

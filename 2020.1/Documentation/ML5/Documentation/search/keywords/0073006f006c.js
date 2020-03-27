@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("sol",["subsub","Class"],[["Solve",,[["Solver",,,,0,"File:component_solver.pmc:Solver.Solve","PMAClangClass:Solver:Solve"]]],["Solver",,[[,,,,1,"File:component_solver.pmc:Solver","PMAClangClass:Solver"]]]]);

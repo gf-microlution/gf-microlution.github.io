@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isc",["subsub"],[["IsChuckClamped",,[["Chuck",,,,0,"File:hardware_chuck.pmc:Chuck.IsChuckClamped","PMAClangClass:Chuck:IsChuckClamped"]]]]);

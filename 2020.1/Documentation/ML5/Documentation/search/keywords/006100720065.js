@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("are",["subsub"],[["areAllShuttersOpen",,[["Laser",,,,0,"File:lib_Laser_Monaco.pmc:Laser.areAllShuttersOpen","PMAClangClass:Laser:areAllShuttersOpen"]]]]);

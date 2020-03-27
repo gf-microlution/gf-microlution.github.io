@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ext",["subsub"],[["Extend",,[["PowerMeter",,,,0,"File:component_powermeter.pmc:PowerMeter.Extend","PMAClangClass:PowerMeter:Extend"]]],["ExtendProbe",,[["Probe",,,,0,"File:component_probe.pmc:Probe.ExtendProbe","PMAClangClass:Probe:ExtendProbe"]]]]);

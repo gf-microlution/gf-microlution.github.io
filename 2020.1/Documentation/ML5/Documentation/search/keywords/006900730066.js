@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isf",["subsub"],[["IsFaultAndWarnOK",,[["Laser",,,,0,"File:lib_Laser_Monaco.pmc:Laser.IsFaultAndWarnOK","PMAClangClass:Laser:IsFaultAndWarnOK"]]],["IsFlowOK",,[["Fumex",,,,0,"File:component_fumex.pmc:Fumex.IsFlowOK","PMAClangClass:Fumex:IsFlowOK"]]]]);

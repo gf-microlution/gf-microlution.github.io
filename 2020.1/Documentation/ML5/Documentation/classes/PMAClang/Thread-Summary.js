@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("PMAClangClass:Thread","Thread");NDSummary.OnSummaryLoaded("PMAClangClass:Thread",[["PMAClang","PMAClang"]],[["Classes","Class"],["Groups","Group"],["Functions","subsub"]],[[47,0,0,"Thread"],[48,0,1,"Functions","Functions"],[49,0,2,"SleepInProgram","SleepInProgram"],[50,0,2,"Sleep","Sleep"]]);

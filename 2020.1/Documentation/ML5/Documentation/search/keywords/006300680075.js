@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("chu",["Class"],[["Chuck",,[[,,,,0,"File:hardware_chuck.pmc:Chuck","PMAClangClass:Chuck"]]]]);
