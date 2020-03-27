@@ -1,0 +1,5 @@
+#ignore generated documentation files
+*/
+index.html
+!generator/**
+
