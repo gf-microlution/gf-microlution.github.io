@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("tra",["subsub"],[["TraceCurrentSurface",,[["ProbeTracing",,,,0,"File:common_probetracing.pmc:ProbeTracing.TraceCurrentSurface","PMAClangClass:ProbeTracing:TraceCurrentSurface"]]],["TransformPoint",,[["Math",,,,0,"File:common_math.pmc:Math.TransformPoint","PMAClangClass:Math:TransformPoint"]]]]);

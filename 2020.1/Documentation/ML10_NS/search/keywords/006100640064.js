@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("add",["subsub"],[["AddStringVariable",,[["DataPersistence",,,,0,"File:component_datapersistence.pmc:DataPersistence.AddStringVariable","PMAClangClass:DataPersistence:AddStringVariable"]]],["AddVariable",,[["DataPersistence",,,,0,"File:component_datapersistence.pmc:DataPersistence.AddVariable","PMAClangClass:DataPersistence:AddVariable"]]]]);

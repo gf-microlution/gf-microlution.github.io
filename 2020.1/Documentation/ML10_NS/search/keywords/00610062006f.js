@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("abo",["subsub"],[["AbortJob",,[["Scanhead",,,,0,"File:component_scanhead_arges.pmc:Scanhead.AbortJob","PMAClangClass:Scanhead:AbortJob"]]],["AbortPrograms",,[["ProgramSupport",,,,0,"File:common_programsupport.pmc:ProgramSupport.AbortPrograms","PMAClangClass:ProgramSupport:AbortPrograms"]]]]);

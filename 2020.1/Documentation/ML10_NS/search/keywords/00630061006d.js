@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("cam",["Class"],[["Camera",,[[,,,,0,"File:component_camera_keyence.pmc:Camera","PMAClangClass:Camera"]]]]);

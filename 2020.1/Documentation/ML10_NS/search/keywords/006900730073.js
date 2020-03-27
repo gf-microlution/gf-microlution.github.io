@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("iss",["subsub"],[["IsShutterOpen",,[["Camera",,,,0,"File:component_camera_keyence.pmc:Camera.IsShutterOpen","PMAClangClass:Camera:IsShutterOpen"]]]]);

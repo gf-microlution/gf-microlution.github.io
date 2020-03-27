@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("sca",["Class"],[["Scanhead",,[[,,,,0,"File:component_scanhead_arges.pmc:Scanhead","PMAClangClass:Scanhead"]]]]);

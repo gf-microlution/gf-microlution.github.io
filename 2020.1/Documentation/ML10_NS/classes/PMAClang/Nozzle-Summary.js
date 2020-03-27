@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("PMAClangClass:Nozzle","Nozzle");NDSummary.OnSummaryLoaded("PMAClangClass:Nozzle",[["PMAClang","PMAClang"]],[["Classes","Class"],["Groups","Group"],["Functions","subsub"]],[[268,0,0,"Nozzle"],[269,0,1,"Functions","Functions"],[270,0,2,"Remove","Remove"],[271,0,2,"DropOff","DropOff"],[272,0,2,"Pickup","Pickup"],[273,0,2,"IsClamped","IsClamped"]]);

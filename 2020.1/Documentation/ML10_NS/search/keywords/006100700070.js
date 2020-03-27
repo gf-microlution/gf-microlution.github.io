@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("app",["subsub"],[["ApplyJobParameters",,[["Scanhead",,,,0,"File:component_scanhead_arges.pmc:Scanhead.ApplyJobParameters","PMAClangClass:Scanhead:ApplyJobParameters"]]],["ApplyOffset",,[["OffsetManager",,,,0,"File:motion_offsets.pmc:OffsetManager.ApplyOffset","PMAClangClass:OffsetManager:ApplyOffset"]]]]);

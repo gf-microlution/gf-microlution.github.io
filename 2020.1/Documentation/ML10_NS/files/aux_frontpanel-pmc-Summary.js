@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:aux_frontpanel.pmc","aux_frontpanel.pmc");NDSummary.OnSummaryLoaded("File:aux_frontpanel.pmc",[["PMAClang","PMAClang"]],[["Classes","Class"],["Groups","Group"],["Functions","subsub"]],[[379,0,0,"FrontPanel","FrontPanel"],[380,0,1,"Functions","FrontPanel.Functions"],[381,0,2,"IsMotionOverrideKeyOn","FrontPanel.IsMotionOverrideKeyOn"]]);

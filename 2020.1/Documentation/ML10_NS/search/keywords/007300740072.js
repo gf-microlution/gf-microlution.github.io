@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("str",["Class"],[["StringSupport",,[[,,,,0,"File:lib_StringSupport.pmc:StringSupport","PMAClangClass:StringSupport"]]]]);

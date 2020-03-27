@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("bea",["Class"],[["BeamExpander",,[[,,,,0,"File:component_beam_exp.pmc:BeamExpander","PMAClangClass:BeamExpander"]]]]);

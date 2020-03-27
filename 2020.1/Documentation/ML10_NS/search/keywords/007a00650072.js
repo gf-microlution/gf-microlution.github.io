@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("zer",["subsub"],[["Zero",,[["PowerMeter",,,,0,"File:component_powermeter.pmc:PowerMeter.Zero","PMAClangClass:PowerMeter:Zero"]]]]);

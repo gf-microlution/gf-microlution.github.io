@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("fir",["subsub"],[["Fire",,[["Laser",,,,0,"File:component_laser_ipg.pmc:Laser.Fire","PMAClangClass:Laser:Fire"]]]]);

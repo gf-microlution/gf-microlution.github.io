@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("tea",["subsub"],[["TeachWorkOffsetCurrentPosition",,[["OffsetManager",,,,0,"File:motion_offsets.pmc:OffsetManager.TeachWorkOffsetCurrentPosition","PMAClangClass:OffsetManager:TeachWorkOffsetCurrentPosition"]]]]);

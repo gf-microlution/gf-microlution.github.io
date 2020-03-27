@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("del",["subsub"],[["DeleteJobByName",,[["Scanhead",,,,0,"File:component_scanhead_arges.pmc:Scanhead.DeleteJobByName","PMAClangClass:Scanhead:DeleteJobByName"]]],["DeleteTable",,[["DataManager",,,,0,"File:component_solver.pmc:DataManager.DeleteTable","PMAClangClass:DataManager:DeleteTable"]]]]);

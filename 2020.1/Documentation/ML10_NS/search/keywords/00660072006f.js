@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("fro",["Class"],[["FrontPanel",,[[,,,,0,"File:aux_frontpanel.pmc:FrontPanel","PMAClangClass:FrontPanel"]]]]);

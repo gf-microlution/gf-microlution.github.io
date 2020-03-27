@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("sen",["subsub"],[["SendTrigger",,[["Camera",,,,0,"File:component_camera_keyence.pmc:Camera.SendTrigger","PMAClangClass:Camera:SendTrigger"]]]]);

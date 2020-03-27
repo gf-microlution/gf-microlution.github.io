@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("PMAClangClass:MCodes","MCodes");NDSummary.OnSummaryLoaded("PMAClangClass:MCodes",[["PMAClang","PMAClang"]],[["Classes","Class"],["Groups","Group"],["Functions","subsub"]],[[349,0,0,"MCodes"],[350,0,1,"Functions","Functions"],[351,0,2,"M0","M0"],[352,0,2,"M1","M1"],[353,0,2,"M2","M2"]]);

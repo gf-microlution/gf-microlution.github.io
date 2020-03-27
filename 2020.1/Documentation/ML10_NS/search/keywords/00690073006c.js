@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isl",["subsub"],[["IsLastBackupRecoveredFrom",,[["Machine",,,,0,"File:Machine.pmc:Machine.IsLastBackupRecoveredFrom","PMAClangClass:Machine:IsLastBackupRecoveredFrom"]]]]);

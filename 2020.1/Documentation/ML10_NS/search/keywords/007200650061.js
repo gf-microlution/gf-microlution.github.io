@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("rea",["subsub"],[["ReadCapturePosition",,[["DataCapture",,,,0,"File:common_datacapture.pmc:DataCapture.ReadCapturePosition","PMAClangClass:DataCapture:ReadCapturePosition"]]]]);

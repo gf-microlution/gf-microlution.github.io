@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("rot",["subsub"],[["RotateAboutPointAbs",,[["Kinematics",,,,0,"File:motion_kinematics.pmc:Kinematics.RotateAboutPointAbs","PMAClangClass:Kinematics:RotateAboutPointAbs"]]],["RotateAboutPointInc",,[["Kinematics",,,,0,"File:motion_kinematics.pmc:Kinematics.RotateAboutPointInc","PMAClangClass:Kinematics:RotateAboutPointInc"]]]]);
